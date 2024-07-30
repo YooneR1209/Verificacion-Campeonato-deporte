@@ -10,7 +10,7 @@ class Jugador extends Persona {
     // Método público
     public EstadisticaIndividual jugar() {
         // Implementación del método jugar
-        // Aquí debes devolver una instancia de EstadisticaIndividual
+        
         return new EstadisticaIndividual();
     }
 }

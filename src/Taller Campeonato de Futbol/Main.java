@@ -9,6 +9,6 @@ public class Main {
         equipo.inscribirEquipo();
         equipo.inscribirJugador("Juan Pérez");
 
-        equipo.actualizarEstadisticas(estadistica); // Uso de la dependencia
+        equipo.actualizarEstadisticas(estadistica);
     }
 }
